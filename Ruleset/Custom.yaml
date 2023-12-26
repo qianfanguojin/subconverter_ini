@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,kxdao.org
   - DOMAIN-SUFFIX,kxdao.net
+  - DOMAIN-SUFFIX,jsdelivr.net
