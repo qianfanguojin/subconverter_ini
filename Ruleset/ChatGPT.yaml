@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,openai.com
   - DOMAIN,challenges.cloudflare.com
   - DOMAIN,events.statsigapi.net
   - DOMAIN,featuregates.org
