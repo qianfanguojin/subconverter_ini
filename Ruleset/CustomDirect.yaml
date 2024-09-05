@@ -1,5 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,jsdelivr.net
-  - DST-PORT,22
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
